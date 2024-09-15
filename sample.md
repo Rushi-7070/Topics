@@ -14,7 +14,6 @@ Arrays can be used to store a list of elements of the same type, such as integer
 Here is how you typically declare and initialize an array in a few common programming languages:
 
 ### C++
-```cpp
 int arr[5] = {1, 2, 3, 4, 5};
 
 
